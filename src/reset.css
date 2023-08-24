@@ -49,6 +49,7 @@ h6 {
 #app {
 	font-family: Avenir, Helvetica, Arial, sans-serif;
 	isolation: isolate;
+	height: 100%;
 }
 
 :root {
